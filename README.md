@@ -21,10 +21,10 @@ client의 ready에 setInterver을 사용한 봇입니다.
 ### 1. 모듈을 설치해주세요.
 `npm i` or `npm install`
 
-### 2. 부족한 파일 부분은 알아서 추가해주세요.
+###  └. 부족한 파일 부분은 알아서 추가해주세요.
 `handler` in `loadEvents`, `loadSlashCommands` and `config.json`
 
-### 3. loadSlashCommands 부분
+### 2. loadSlashCommands 부분
 슬래시 커맨드 빌더 코드 작성하시면 됩니다.
 
 # License
